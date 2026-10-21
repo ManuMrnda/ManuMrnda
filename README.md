@@ -36,7 +36,7 @@
 ---
 
 ## 📌 Proyectos destacados
-- 🌐 [Prácticas IAW](https://github.com/ManuMrnda/ManuMrnda) - Repositorio de proyectos y despliegues del módulo IAW.
+- 🌐 [Prácticas IAW](https://github.com/ManuMrnda/ManuMrnda) - Repositorio de proyectos y despliegues del módulo IAW
 
 <details>
   <summary>🔍 Ver más sobre mis módulos de 2º ASIR</summary>
