@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**ManuMrnda/ManuMrnda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">¡Hola! Soy Manuel 👋</h1>
 <p align="center">Estudiante de Administración de Sistemas Informáticos en Red (ASIR) | Redes & Sistemas</p>
 
@@ -26,9 +10,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 Sobre mí
-- 🏫 Estudiando 2º de **ASIR** (Administración de Sistemas Informáticos en Red).
-- 💻 Enfocado en administración de sistemas Linux/Windows, redes Cisco y bases de datos.
-- 🌱 Aprendiendo actualmente: Implantación de Aplicaciones Web (IAW), Servicios de Red e Internet (SRI) y Administración de Sistemas Gestores de Bases de Datos (SGBD).
+ 🏫 Estudiando 2º de **ASIR** (Administración de Sistemas Informáticos en Red)
+ 💻 Enfocado en administración de sistemas Linux/Windows, redes Cisco y bases de datos
+ 🌱 Aprendiendo actualmente: Implantación de Aplicaciones Web (IAW), Servicios de Red e Internet (SRI) y Administración de Sistemas Gestores de Bases de Datos (SGBD)
 
 ---
 
@@ -45,8 +29,8 @@ Here are some ideas to get you started:
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuMrnda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuMrnda&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuMrnda&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuMrnda&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -58,13 +42,14 @@ Here are some ideas to get you started:
   <summary>🔍 Ver más sobre mis módulos de 2º ASIR</summary>
   <br />
   <ul>
-    <li><b>IAW:</b> Implantación de Aplicaciones Web.</li>
-    <li><b>SRI:</b> Servicios de Red e Internet.</li>
-    <li><b>SGBD:</b> Administración de Sistemas Gestores de Bases de Datos.</li>
+    <li><b>IAW:</b> Implantación de Aplicaciones Web</li>
+    <li><b>SRI:</b> Servicios de Red e Internet</li>
+    <li><b>SGBD:</b> Administración de Sistemas Gestores de Bases de Datos</li>
   </ul>
 </details>
 
 ---
 
 ## 📫 Contacto
+- ✉️ **Email:** [manuumiranda03@gmail.com](mailto:manuumiranda03@gmail.com)
 - 🐙 **GitHub:** [https://github.com/ManuMrnda](https://github.com/ManuMrnda)
