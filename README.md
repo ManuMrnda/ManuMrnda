@@ -10,9 +10,9 @@
 ---
 
 ## 🚀 Sobre mí
- 🏫 Estudiando 2º de **ASIR** (Administración de Sistemas Informáticos en Red)
- 💻 Enfocado en administración de sistemas Linux/Windows, redes Cisco y bases de datos
- 🌱 Aprendiendo actualmente: Implantación de Aplicaciones Web (IAW), Servicios de Red e Internet (SRI) y Administración de Sistemas Gestores de Bases de Datos (SGBD)
+ - 🏫 Estudiando 2º de **ASIR** (Administración de Sistemas Informáticos en Red)
+ - 💻 Enfocado en administración de sistemas Linux/Windows, redes Cisco y bases de datos
+ - 🌱 Aprendiendo actualmente: Implantación de Aplicaciones Web (IAW), Servicios de Red e Internet (SRI) y Administración de Sistemas Gestores de Bases de Datos (SGBD)
 
 ---
 
